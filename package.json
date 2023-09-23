@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "iniciando el proyecto para la materia INF281",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "babel-node src/index.js"
   },
